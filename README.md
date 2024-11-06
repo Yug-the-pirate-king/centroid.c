@@ -1,4 +1,3 @@
-le bhai
 #include <stdio.h>
 void centroid();
 void circle();
