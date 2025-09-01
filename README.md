@@ -1,6 +1,6 @@
 #include <stdio.h>
 void centroid();
-void circle();
+void circle();// hello
 void rectangle();
 void semicircle();
 void quartercircle();
