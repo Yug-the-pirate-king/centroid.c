@@ -8,6 +8,7 @@ void triangle();
 void ra();
 void na();
 
+
 void ra() {
     float base, height, area, x, y;
     printf("Enter the base: ");
